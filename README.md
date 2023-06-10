@@ -12,10 +12,15 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 
 ## Overview
+![127 0 0 1_3000_index html(iPhone 12 Pro)]()
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop 1440px
+![resultsummary01 netlify app_(iPad Air)](https://github.com/Bibiwei-Pere/Results-summary-component/assets/106984663/f4de3720-8d67-4f03-9960-db91f18f5d46)
+
+#### Mobile 375px
+<img src="https://github.com/Bibiwei-Pere/Results-summary-component/assets/106984663/2393c0e3-faca-450b-ab07-a9697c7ed674" width="250" height="400"/>
 
 ### Links
 
