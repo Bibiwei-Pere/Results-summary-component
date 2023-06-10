@@ -160,18 +160,16 @@ button:hover, button:focus, button:active {
 
 @media (max-width: 750px) {
 
-    body {
-        height: auto;
-    }
-
     main {
-        margin: 80px 0;
+        width: 360px;
         flex-direction: column;
         box-shadow: none;
     }
 
     .score {
-        width: 300px;
+        width: 290px;
+        padding: 15px 35px;
+        margin-top: 165px;
     }
 
     .score h1 {
@@ -183,7 +181,7 @@ button:hover, button:focus, button:active {
     }
 
     .score-card {
-        width: 340px;
+        width: 302px;
     }
     
     h2 {
